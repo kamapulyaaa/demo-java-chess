@@ -48,34 +48,34 @@ java application/Program
 
 </br>
 
-**The Pawn ‘’P” (Peão)**
+**The Pawn (P)**
 
 In this game the Pawn is the letter <b>‘’P”</b>
 </br></br>
 
-**The Bishop ‘’B” (Bispo)**
+**The Bishop (B)**
 
 In this game the Bishop is the letter <b>‘’B”</b>
 </br></br>
 
 
-**The Knight “N” (Cavalo)**
+**The Knight (N)**
 
 In this game the Knight is the letter <b>‘’L”</b>
 </br></br>
 
 
-**The Rook “R” (Torre)**
+**The Rook (R)**
 
 In this game the Rook is the letter <b>‘’R”</b>
 </br></br>
 
-**The Queen “Q” (Rainha)**
+**The Queen (Q)**
 
 In this game the Queen is the letter <b>‘’Q”</b>
 </br></br>
 
-**The King “K” (Rei)**
+**The King (K) (Rei)**
 
 In this game the King is the letter <b>‘’K”</b>
 </br></br>
