@@ -171,10 +171,4 @@ In this game, the **black pieces** from tradicional chess are represented by the
 
 <div align="center">
   
-## 💻 Developer:
-
-<a href="https://github.com/JayCesar"><img width="180px" src="https://github.com/JayCesar/java-chess-system/assets/44206400/f9a92694-5252-442f-aedb-189780fb622c"/></a>
-<p> <b>Júlio César </b> </br>
-Full-stack Developer </p>
-</div>
 
